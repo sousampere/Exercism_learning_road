@@ -4,5 +4,7 @@
 //
 
 export function hello() {
-  return 'Goodbye, Mars!';
+  return 'Hello, World!';
 }
+
+// console.log(hello());
